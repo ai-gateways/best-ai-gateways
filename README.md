@@ -226,6 +226,7 @@ This list covers gateways that meet every test above, so several useful categori
 - [The three kinds of AI traffic](https://github.com/ai-gateways/ai-gateway#the-three-kinds-of-ai-traffic): how LLM, MCP, and agent gateways fit under one AI gateway
 - [How to evaluate an LLM gateway](https://github.com/ai-gateways/llm-gateway#how-to-evaluate-an-llm-gateway): routing, budgets, and failover checks for model traffic
 - [Best MCP Gateways](https://github.com/ai-gateways/best-mcp-gateways#best-open-source-mcp-gateways): the same selective treatment for MCP gateways
+- [Best Agent Gateways](https://github.com/ai-gateways/best-agent-gateways#best-open-source-agent-gateways): the same selective treatment for agent gateways
 - [Cost governance](https://github.com/ai-gateways/ai-governance#cost-governance): budgets and attribution for AI spend
 - [Where to enforce guardrails](https://github.com/ai-gateways/ai-guardrails#where-to-enforce-guardrails): checks at the gateway and elsewhere
 - [OpenTelemetry for LLM applications](https://github.com/ai-gateways/llm-observability#opentelemetry-for-llm-applications): tracing model calls through a gateway
